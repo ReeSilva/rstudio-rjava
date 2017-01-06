@@ -1,4 +1,4 @@
-FROM rocker/rstudio:3.3.1
+FROM rocker/rstudio:3.3.2
 MAINTAINER Renato Biancalana da Silva <renato.biancalana.silva@gmail.com>
 
 RUN apt-get clean && \
